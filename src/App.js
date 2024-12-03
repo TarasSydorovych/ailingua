@@ -8,6 +8,7 @@ import {
   useLocation,
   Outlet,
 } from "react-router-dom";
+import "./exo/stylesheet.css";
 import Login from "./page/login/login";
 function App() {
   return (
